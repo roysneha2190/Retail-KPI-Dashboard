@@ -1,6 +1,7 @@
 # Retail Data Pipeline & Automated Excel Dashboard
+This project is a Python-based data pipeline that processes raw retail sales data, stores it in a structured local SQL database, and automatically generates a formatted Excel dashboard for business reporting.
 
-This Python pipeline completely automates weekly retail reporting by moving raw sales data into a structured SQL database, extracting core metrics, and generating a stylized Excel dashboard.
+Instead of manually building charts and formatting tables every week, this script completely automates the workflow from raw data to a presentation-ready spreadsheet.
 
 ---
 
